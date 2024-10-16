@@ -65,7 +65,6 @@
 
 <br clear="both">
 
-<img src="[.github/workflows/snake.yml](https://github.com/Youssefnassar321/Youssefnassar321/blob/797d7f2b0e566ae3a898c0dbe43649a43b8ce976/.github/workflows/snake.yml)" alt="Snake animation" />
 
 ###
 
